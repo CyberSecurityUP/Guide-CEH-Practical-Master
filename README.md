@@ -17,6 +17,7 @@ https://media.x-ra.de/doc/NmapCheatSheetv1.1.pdf
 **Enumeration**
 
 **Details CEH Practical**
+
 https://forums.itpro.tv/topic/2604/ceh-practical/2
 
 https://infayer.com/archivos/65
