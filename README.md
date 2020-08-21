@@ -1,20 +1,51 @@
 # Guide-CEH-Practical-Master
 
 **Attacks Vector**
+
 https://www.upguard.com/blog/attack-vector
+
 https://searchsecurity.techtarget.com/definition/attack-vector
+
 https://www.balbix.com/insights/attack-vectors-and-breach-methods/
+
 https://attack.mitre.org/
 
+https://searchsecurity.techtarget.com/definition/attack-vector#:~:text=An%20attack%20vector%20is%20a,vulnerabilities%2C%20including%20the%20human%20element.
+
+https://www.youtube.com/watch?v=LsuoJb7n3co
+
+https://www.youtube.com/watch?v=rcB4EZLfi7I
+
+https://www.youtube.com/watch?v=dz7Ntp7KQGA
+
 **Network Scanning**
+
 https://nmap.org/man/pt_BR/index.html
+
 https://nmap.org/docs.html
+
 https://hackertarget.com/nmap-cheatsheet-a-quick-reference-guide/
+
 https://hackertarget.com/nmap-tutorial/
+
 https://www.stationx.net/nmap-cheat-sheet/
+
 https://media.x-ra.de/doc/NmapCheatSheetv1.1.pdf
 
+https://www.100security.com.br/netdiscover
+
+https://kalilinuxtutorials.com/netdiscover-scan-live-hosts-network/
+
+https://www.youtube.com/watch?v=PS677owUk-c
+
 **Enumeration**
+https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
+
+https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
+
+https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+
+https://medium.com/@arnavtripathy98/smb-enumeration-for-penetration-testing-e782a328bf1b
 
 **Details CEH Practical**
 
@@ -63,6 +94,8 @@ https://www.youtube.com/watch?v=YZf5xmeaU58
 https://newhorizons.com.sg/ceh-master/
 
 https://www.iitlearning.com/certified-ethical-hacker-practical.php
+
+https://medium.com/@anontuttuvenus/ceh-practical-exam-review-185ea4cef82a
 
 https://www.cyberprotex.com/ceh.html
 
