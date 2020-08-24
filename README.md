@@ -6,7 +6,7 @@
 - Duration: 6 hours 
 - Availability: Aspen – iLabs 
 - Test Format: iLabs Cyber Range 
-- Passing Score: 70%
+- Passing Score: 70% (14 Questions)
 --------------------------------------------
 **Exam Tips**
 - Vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems, etc;
@@ -16,6 +16,13 @@
 - Different types of cryptography attacks;
 - SQL injection attacks;
 - Packet sniffing;
+--------------------------------------------
+**Format**
+- Realized Test with Web Browser iLabs
+- One Kali Linux (No Update) and Windows Server 2016 to perform the pentest
+- Five machines to compromise on an isolated network from the internet
+- Search in Google? (Yes!)
+- Talk to someone during the race? (No!)
 
 ### **Tools**
 
