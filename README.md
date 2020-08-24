@@ -1,6 +1,15 @@
 # Guide-CEH-Practical-Master
 
-**Attacks Vector**
+##**Exame Details**
+- Vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems, etc;
+- System hacking, steganography;
+- Network scanning to identify live and vulnerable machines in a network;
+- OS banner grabbing, service, and user enumeration;
+- Different types of cryptography attacks;
+- SQL injection attacks;
+- Packet sniffing;
+
+##**Attacks Vector**
 
 https://www.upguard.com/blog/attack-vector
 
@@ -18,7 +27,7 @@ https://www.youtube.com/watch?v=rcB4EZLfi7I
 
 https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
-**Network Scanning**
+##**Network Scanning**
 
 https://nmap.org/man/pt_BR/index.html
 
@@ -38,7 +47,17 @@ https://kalilinuxtutorials.com/netdiscover-scan-live-hosts-network/
 
 https://www.youtube.com/watch?v=PS677owUk-c
 
-**Enumeration**
+https://www.stationx.net/nmap-cheat-sheet/
+
+https://redteamtutorials.com/2018/10/14/nmap-cheatsheet/
+
+https://resources.infosecinstitute.com/nmap-cheat-sheet/#gref
+
+https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-commands-nse-scripts-868a7bd7f692
+
+https://resources.infosecinstitute.com/network-discovery-tool/#gref
+
+##**Enumeration**
 https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
 
 https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
@@ -47,7 +66,13 @@ https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.ht
 
 https://medium.com/@arnavtripathy98/smb-enumeration-for-penetration-testing-e782a328bf1b
 
-**Details CEH Practical**
+https://www.redsiege.com/blog/2020/04/user-enumeration-part-3-windows/
+
+https://nmap.org/nsedoc/scripts/smb-enum-users.html
+
+https://github.com/sensepost/UserEnum
+
+##**Details CEH Practical**
 
 https://forums.itpro.tv/topic/2604/ceh-practical/2
 
