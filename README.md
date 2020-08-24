@@ -51,9 +51,11 @@
 - Vulnhub (Machines Easy to Medium) (https://www.vulnhub.com/)
 - Labs PenTest Brazil (CEH Course made in Major Eder ft ACADI-TI) (https://acaditi.com.br/ceh-v10-treinamento-certified-ethical-hacker/)
 - TryHackMe (https://tryhackme.com/)
+
 --------------------------------------------
 ### **Examples Questions**
 - No Informations
+
 --------------------------------------------
 ### **Attacks Vector**
 
@@ -72,6 +74,7 @@ https://www.youtube.com/watch?v=LsuoJb7n3co
 https://www.youtube.com/watch?v=rcB4EZLfi7I
 
 https://www.youtube.com/watch?v=dz7Ntp7KQGA
+
 --------------------------------------------
 ### **Network Scanning**
 
@@ -102,6 +105,7 @@ https://resources.infosecinstitute.com/nmap-cheat-sheet/#gref
 https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-commands-nse-scripts-868a7bd7f692
 
 https://resources.infosecinstitute.com/network-discovery-tool/#gref
+
 --------------------------------------------
 ### **Enumeration**
 https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
@@ -117,6 +121,7 @@ https://www.redsiege.com/blog/2020/04/user-enumeration-part-3-windows/
 https://nmap.org/nsedoc/scripts/smb-enum-users.html
 
 https://github.com/sensepost/UserEnum
+
 --------------------------------------------
 ### **Brute Force**
 
@@ -135,6 +140,7 @@ https://laconicwolf.com/2018/09/29/hashcat-tutorial-the-basics-of-cracking-passw
 https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb98449ff1
 
 https://www.varonis.com/blog/john-the-ripper/
+
 --------------------------------------------
 ### **Wordlists**
 
@@ -147,6 +153,7 @@ https://github.com/Dormidera/WordList-Compendium
 https://github.com/danielmiessler/SecLists
 
 https://www.kaggle.com/wjburns/common-password-list-rockyoutxt
+
 --------------------------------------------
 ### **SQL Injection**
 
@@ -169,6 +176,7 @@ https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5
 https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
 
 https://www.1337pwn.com/use-sqlmap-to-bypass-cloudflare-waf-and-hack-website-with-sql-injection/
+
 --------------------------------------------
 ### **Steganography**
 
@@ -193,6 +201,7 @@ https://medium.com/write-ups-hackthebox/tagged/steganography
 http://moinkhans.blogspot.com/2015/06/steghide-beginners-tutorial.html
 
 https://www.2daygeek.com/easy-way-hide-information-inside-image-and-sound-objects/
+
 --------------------------------------------
 ### **System Hacking**
 
@@ -235,6 +244,7 @@ https://www.sternsecurity.com/blog/local-network-attacks-llmnr-and-nbt-ns-poison
 https://medium.com/@subhammisra45/llmnr-poisoning-and-relay-5477949b7bef
 
 https://www.hackingarticles.in/get-reverse-shell-via-windows-one-liner/
+
 --------------------------------------------
 ### **Web Scanners**
 
@@ -269,6 +279,7 @@ https://null-byte.wonderhowto.com/how-to/hack-like-pro-crack-passwords-part-5-cr
 https://medium.com/tech-zoom/dirb-a-web-content-scanner-bc9cba624c86
 
 https://www.hackingarticles.in/comprehensive-guide-on-dirb-tool/
+
 --------------------------------------------
 ### **Sniffers**
 
@@ -299,6 +310,7 @@ https://danielmiessler.com/study/tcpdump/
 https://hackertarget.com/tcpdump-examples/
 
 https://opensource.com/article/18/10/introduction-tcpdump
+
 --------------------------------------------
 ### **Reviews and Details CEH Practical**
 
