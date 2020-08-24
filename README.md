@@ -9,6 +9,29 @@
 - SQL injection attacks;
 - Packet sniffing;
 
+### **Tools**
+
+- Nmap
+- Hydra
+- Sqlmap
+- Wpscan
+- Nikto
+- John
+- Hashcat
+- Metasploit
+- Responder LLMNR
+- Wireshark or Tcpdump
+- Steghide
+
+### **Helps**
+
+- Reddit Exam Reviews
+- Medium Exam Reviews
+- Professionals Certificate
+- Hack The Box (Challenges Steganography and Web)
+- Vulnhub (Machines Easy to Medium)
+- Labs PenTest Brazil (CEH Course made in Major Eder ft ACADI-TI)
+
 ### **Attacks Vector**
 
 https://www.upguard.com/blog/attack-vector
