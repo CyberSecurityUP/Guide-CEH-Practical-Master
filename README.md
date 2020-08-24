@@ -130,6 +130,7 @@ https://medium.com/@sc015020/how-to-crack-passwords-with-john-the-ripper-fdb9844
 https://www.varonis.com/blog/john-the-ripper/
 
 ### **Wordlists**
+
 http://www.phenoelit.org/dpl/dpl.html
 
 https://datarecovery.com/rd/default-passwords/
@@ -186,7 +187,7 @@ http://moinkhans.blogspot.com/2015/06/steghide-beginners-tutorial.html
 
 https://www.2daygeek.com/easy-way-hide-information-inside-image-and-sound-objects/
 
-## **System Hacking**
+### **System Hacking**
 
 https://www.notsosecure.com/pwning-with-responder-a-pentesters-guide/
 
