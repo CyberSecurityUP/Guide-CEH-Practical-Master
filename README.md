@@ -8,6 +8,7 @@
 - Test Format: iLabs Cyber Range 
 - Passing Score: 70%
 --------------------------------------------
+**Exam Tips**
 - Vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems, etc;
 - System hacking, steganography;
 - Network scanning to identify live and vulnerable machines in a network;
