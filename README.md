@@ -1,6 +1,6 @@
 # Guide-CEH-Practical-Master
 
-##**Exame Details**
+### **Exame Details**
 - Vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems, etc;
 - System hacking, steganography;
 - Network scanning to identify live and vulnerable machines in a network;
@@ -9,7 +9,7 @@
 - SQL injection attacks;
 - Packet sniffing;
 
-##**Attacks Vector**
+### **Attacks Vector**
 
 https://www.upguard.com/blog/attack-vector
 
@@ -27,7 +27,7 @@ https://www.youtube.com/watch?v=rcB4EZLfi7I
 
 https://www.youtube.com/watch?v=dz7Ntp7KQGA
 
-##**Network Scanning**
+### **Network Scanning**
 
 https://nmap.org/man/pt_BR/index.html
 
@@ -57,7 +57,7 @@ https://medium.com/@infosecsanyam/nmap-cheat-sheet-nmap-scanning-types-scanning-
 
 https://resources.infosecinstitute.com/network-discovery-tool/#gref
 
-##**Enumeration**
+### **Enumeration**
 https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
 
 https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
@@ -72,7 +72,7 @@ https://nmap.org/nsedoc/scripts/smb-enum-users.html
 
 https://github.com/sensepost/UserEnum
 
-##**Details CEH Practical**
+### **Details CEH Practical**
 
 https://forums.itpro.tv/topic/2604/ceh-practical/2
 
