@@ -292,9 +292,11 @@ https://hackertarget.com/tcpdump-examples/
 
 https://opensource.com/article/18/10/introduction-tcpdump
 
-### **Details CEH Practical**
+### **Reviews and Details CEH Practical**
 
 https://forums.itpro.tv/topic/2604/ceh-practical/2
+
+https://www.linkedin.com/pulse/considera%C3%A7%C3%B5es-sobre-o-exame-ceh-practical-leandro-cortiz/
 
 https://infayer.com/archivos/65
 
