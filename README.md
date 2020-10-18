@@ -51,6 +51,7 @@
 - Vulnhub (Machines Easy to Medium) (https://www.vulnhub.com/)
 - Labs PenTest Brazil (CEH Course made in Major Eder ft ACADI-TI) (https://acaditi.com.br/ceh-v10-treinamento-certified-ethical-hacker/)
 - TryHackMe (https://tryhackme.com/)
+- iLabs CEH (https://ilabs.eccouncil.org/ethical-hacking-exercises/)
 
 --------------------------------------------
 ### **Examples Questions**
@@ -373,3 +374,5 @@ https://www.infosec4tc.com/product/ceh-master-exam1-exam2-practical/
 https://sysaptechnologies.com/certified-ethical-hacker-ceh-v10-practical/
 
 https://jensoroger.wordpress.com/2019/02/09/oscp-ceh-practical/
+
+https://khroot.com/2020/06/20/certified-ethical-hacker-practical-review/
