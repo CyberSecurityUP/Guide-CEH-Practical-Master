@@ -344,6 +344,8 @@ https://www.reddit.com/r/CEH/comments/f6t80r/can_ceh_practical_be_regarded_as_a/
 
 https://www.reddit.com/r/CEH/comments/g6z6vn/just_passed_ceh_practical_1920/
 
+https://medium.com/@jonathanchelmus/c-eh-practical-exam-review-42755546c82e
+
 https://www.reddit.com/r/CEH/comments/hk6880/passing_ceh_practical/
 
 https://www.reddit.com/r/CEH/comments/f629zk/ceh_practical_vs_ejpt_vs_ecppt/
