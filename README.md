@@ -359,6 +359,10 @@ https://www.youtube.com/watch?v=9g5gdhoDotg&list=PLWGnVet-gN_kGHSHbWbeI0gtfYx3Pn
 
 https://www.youtube.com/watch?v=LHU0OFcWSBk
 
+https://medium.com/@mruur/ceh-practical-exam-review-918e76f831ff
+
+https://www.youtube.com/c/XanderBilla/videos
+
 https://www.youtube.com/watch?v=YZf5xmeaU58
 
 https://newhorizons.com.sg/ceh-master/
