@@ -380,3 +380,13 @@ https://sysaptechnologies.com/certified-ethical-hacker-ceh-v10-practical/
 https://jensoroger.wordpress.com/2019/02/09/oscp-ceh-practical/
 
 https://khroot.com/2020/06/20/certified-ethical-hacker-practical-review/
+
+https://github.com/Samsar4/Ethical-Hacking-Labs
+
+https://www.reddit.com/r/CEH/comments/jg0y6u/ceh_practical/
+
+https://www.reddit.com/r/CEH/comments/dfa1y8/passed_ceh_practical/
+
+https://www.reddit.com/r/CEH/comments/cgualo/ceh_practical_tell_me_about_it/
+
+https://www.reddit.com/r/CEH/comments/c69fou/passed_ceh_practicalpost_exam_writeup/
