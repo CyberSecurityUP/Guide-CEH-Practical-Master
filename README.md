@@ -37,6 +37,8 @@
 - Responder LLMNR
 - Wireshark or Tcpdump
 - Steghide
+- OpenStego
+- QuickStego
 - Dirb
 - Searchsploit
 - Crunch
