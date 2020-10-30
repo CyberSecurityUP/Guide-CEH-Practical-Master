@@ -43,6 +43,9 @@
 - Searchsploit
 - Crunch
 - Cewl
+- Veracrypt
+- Hashcalc
+- Rainbow Crack
 --------------------------------------------
 ### **Helps**
 
