@@ -55,7 +55,7 @@
 - Hack The Box (Challenges Steganography and Web) (https://www.hackthebox.eu/)
 - Vulnhub (Machines Easy to Medium) (https://www.vulnhub.com/)
 - Labs PenTest Brazil (CEH Course made in Major Eder ft ACADI-TI) (https://acaditi.com.br/ceh-v10-treinamento-certified-ethical-hacker/)
-- TryHackMe (https://tryhackme.com/) / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/hydra / https://tryhackme.com/room/sqli / https://tryhackme.com/room/crackthehash / https://tryhackme.com/p/n00bmaster
+- TryHackMe (https://tryhackme.com/) / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/wirectf / https://tryhackme.com/room/hydra / https://tryhackme.com/room/sqli / https://tryhackme.com/room/crackthehash / https://medium.com/@kyryloren/jack-writeup-by-kyryloren-tryhackme-e41cff4e1c55
 - iLabs CEH (https://ilabs.eccouncil.org/ethical-hacking-exercises/)
 
 --------------------------------------------
