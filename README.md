@@ -59,8 +59,14 @@
 - iLabs CEH (https://ilabs.eccouncil.org/ethical-hacking-exercises/)
 
 --------------------------------------------
-### **Examples Questions**
-- No Informations
+### **Examples Questions (There are the real issues)**
+- What is the IP of the Windows X machine?
+- What is the version of the Linux Kernel?
+- How many Windows machines are there?
+- What is the password for user X of the FTP server?
+- What is user X's IBAN number?
+- Which user X's phone number?
+- What is the password hidden in the .jpeg file?
 
 --------------------------------------------
 ### **Attacks Vector**
