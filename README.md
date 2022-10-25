@@ -189,6 +189,8 @@ https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
 
 https://www.1337pwn.com/use-sqlmap-to-bypass-cloudflare-waf-and-hack-website-with-sql-injection/
 
+https://www.scaler.com/topics/sql/sql-injection/
+
 --------------------------------------------
 ### **Steganography**
 
