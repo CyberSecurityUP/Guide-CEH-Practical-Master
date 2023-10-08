@@ -63,6 +63,7 @@
 - Radare2
 - Rockyou and SecList
 --------------------------------------------
+
 ### **Helps**
 
 - Reddit Exam Reviews
@@ -143,19 +144,26 @@ https://resources.infosecinstitute.com/network-discovery-tool/#gref
 
 --------------------------------------------
 ### **Enumeration**
-https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
 
-https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
+- https://null-byte.wonderhowto.com/how-to/enumerate-smb-with-enum4linux-smbclient-0198049/
 
-https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
+- https://www.hackingarticles.in/a-little-guide-to-smb-enumeration/
 
-https://medium.com/@arnavtripathy98/smb-enumeration-for-penetration-testing-e782a328bf1b
+- https://0xdf.gitlab.io/2018/12/02/pwk-notes-smb-enumeration-checklist-update1.html
 
-https://www.redsiege.com/blog/2020/04/user-enumeration-part-3-windows/
+- https://medium.com/@arnavtripathy98/smb-enumeration-for-penetration-testing-e782a328bf1b
 
-https://nmap.org/nsedoc/scripts/smb-enum-users.html
+- https://www.redsiege.com/blog/2020/04/user-enumeration-part-3-windows/
 
-https://github.com/sensepost/UserEnum
+- https://nmap.org/nsedoc/scripts/smb-enum-users.html
+
+- https://github.com/sensepost/UserEnum
+
+- https://book.hacktricks.xyz/network-services-pentesting/pentesting-dns
+
+- https://securitytrails.com/blog/dns-enumeration
+
+- https://medium.com/@klockw3rk/back-to-basics-dns-enumeration-446017957aa3
 
 --------------------------------------------
 ### **Brute Force**
