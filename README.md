@@ -5,7 +5,7 @@
 - Number of Practical Challenges: 20 
 - Duration: 6 hours 
 - Availability: Aspen – iLabs 
-- Test Format: iLabs Cyber Range 
+- Test Format: Cyber Range 
 - Passing Score: 70% (14 Questions)
 --------------------------------------------
 **Exam Tips**
@@ -16,13 +16,15 @@
 - Different types of cryptography attacks;
 - SQL injection attacks;
 - Packet sniffing;
+- Computer Forensic;
 --------------------------------------------
 **Format**
-- Realized Test with Web Browser iLabs
-- One Kali Linux (No Update) and Windows Server 2016 to perform the pentest
+- Realized Test with Web Browser CyberQ
+- One ParrotOS to perform the pentest and Windows 11 Machine
 - Five machines to compromise on an isolated network from the internet
 - Search in Google? (Yes!)
 - Talk to someone during the race? (No!)
+- Proctored Monitor
 --------------------------------------------
 ### **Tools**
 
@@ -40,12 +42,26 @@
 - OpenStego
 - QuickStego
 - Dirb
+- OleView
+- Dcomcnf
+- RpcDump
+- Gacutil
 - Searchsploit
+- sandfly-entropyscan
+- Strings
+- FTK Imager
+- Malwoverview
+- GDB or IDA
 - Crunch
 - Cewl
+- LinPeas
+- Aircrack-ng
+- GTFOBINS
 - Veracrypt
 - Hashcalc
 - Rainbow Crack
+- Radare2
+- Rockyou and SecList
 --------------------------------------------
 ### **Helps**
 
@@ -68,6 +84,12 @@
 - What is user X's IBAN number?
 - Which user X's phone number?
 - What is the password hidden in the .jpeg file?
+- Rogue AP suspect, crack your password using capture.cap
+- Discovery RAT in Network and acess computer to recovery secret.txt
+- Identify IoT Message using capture.cap
+- Identify FQDN of Domain Controller
+- Perform deep scan on the elf and obtain hash of the file with highest entropy value.
+- Find the executable's Entry point (Address)
 
 --------------------------------------------
 ### **Attacks Vector**
@@ -168,27 +190,71 @@ https://github.com/danielmiessler/SecLists
 https://www.kaggle.com/wjburns/common-password-list-rockyoutxt
 
 --------------------------------------------
-### **SQL Injection**
+## **SQL Injection**
 
-https://hackertarget.com/sqlmap-tutorial/
+- https://hackertarget.com/sqlmap-tutorial/
 
-https://www.binarytides.com/sqlmap-hacking-tutorial/
+- https://www.binarytides.com/sqlmap-hacking-tutorial/
 
-https://www.hackingarticles.in/database-penetration-testing-using-sqlmap-part-1/
+- https://www.hackingarticles.in/database-penetration-testing-using-sqlmap-part-1/
 
-https://medium.com/@rafaelrenovaci/dvwa-solution-sql-injection-blind-sqlmap-cd1461ad336e
+- https://medium.com/@rafaelrenovaci/dvwa-solution-sql-injection-blind-sqlmap-cd1461ad336e
 
-https://medium.com/hacker-toolbelt/dvwa-1-9-viii-blind-sql-injection-with-sqlmap-ee8d59fbdea7
+- https://medium.com/hacker-toolbelt/dvwa-1-9-viii-blind-sql-injection-with-sqlmap-ee8d59fbdea7
 
-https://www.exploit-db.com/docs/english/13701-easy-methodblind-sql-injection.pdf
+- https://www.exploit-db.com/docs/english/13701-easy-methodblind-sql-injection.pdf
 
-https://gracefulsecurity.com/sql-injection-filter-evasion-with-sqlmap/
+- https://gracefulsecurity.com/sql-injection-filter-evasion-with-sqlmap/
 
-https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3
+- https://medium.com/@drag0n/sqlmap-tamper-scripts-sql-injection-and-waf-bypass-c5a3f5764cb3
 
-https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
+- https://owasp.org/www-community/attacks/SQL_Injection_Bypassing_WAF
 
-https://www.1337pwn.com/use-sqlmap-to-bypass-cloudflare-waf-and-hack-website-with-sql-injection/
+- https://www.1337pwn.com/use-sqlmap-to-bypass-cloudflare-waf-and-hack-website-with-sql-injection/
+
+### Types of SQL Injection
+
+Union-based SQLi: This technique involves using the UNION SQL operator to combine the results of the original query with the results of an attacker-controlled query.
+
+Error-based SQLi: This technique involves forcing the database to generate an error, which can reveal information about the database structure.
+
+Blind SQLi: In this type of SQLi, the attacker doesn't get the results of the SQL query in the HTTP response. The attacker has to send a payload, and based on the application's response, he can infer if the payload was executed successfully or not.
+
+Time-based Blind SQLi: This is a type of blind SQLi where the attacker can infer if the payload was executed successfully or not based on the time the server takes to respond.
+
+Out-of-Band SQLi: In this type of SQLi, the attacker doesn't get the results of the SQL query in the HTTP response. Instead, the results are sent to an external server controlled by the attacker.
+
+Second Order SQLi: In this type of SQLi, the payload is not directly injected into the SQL query, but it is stored by the application and used in a later SQL query.
+
+Stored Procedure Attacks: This involves calling stored procedures from the SQL injection point.
+
+Function Call Payloads: This involves calling database functions from the SQL injection point.
+
+Boolean-based SQLi: This involves sending a SQL query that will return a different result depending on whether the condition in the query is true or false.
+
+Content-based SQLi: This involves sending a SQL query that will return a different result depending on the content of the HTTP response.
+
+### Tools
+
+SQLMap: SQLMap is a popular open-source penetration testing tool that automates the process of detecting and exploiting SQL Injection vulnerabilities.
+
+Havij: Havij is an automated SQL Injection tool that helps penetration testers to find and exploit SQL Injection vulnerabilities.
+
+jSQL Injection: jSQL Injection is a lightweight application used to find database information from a distant server.
+
+BBQSQL: BBQSQL is a blind SQL injection framework written in Python.
+
+NoSQLMap: NoSQLMap is an open-source Python tool designed to audit for as well as automate injection attacks and exploit default configuration weaknesses in NoSQL databases.
+
+SQLNinja: SQLNinja is a tool to exploit SQL Injection vulnerabilities on a web application that uses Microsoft SQL Server as its back-end.
+
+SQLiX: SQLiX is a SQL Injection scanner written in Perl.
+
+SQLSentinel: SQLSentinel is an application-level firewall for MySQL that prevents SQL Injection attacks.
+
+MyBatis: MyBatis is a Java persistence framework that includes a built-in SQL Injection scanner.
+
+Blisqy: Blisqy is a tool to aid Web Security researchers to find Time-based Blind SQL injection on HTTP Headers and also exploitation of the same vulnerability.
 
 --------------------------------------------
 ### **Steganography**
@@ -323,6 +389,68 @@ https://danielmiessler.com/study/tcpdump/
 https://hackertarget.com/tcpdump-examples/
 
 https://opensource.com/article/18/10/introduction-tcpdump
+
+--------------------------------------------
+## Malware Analysis
+
+### Static Analysis:
+
+Header Examination: Look at the headers of the executable file. Common executable file formats include PE (Portable Executable) for Windows and ELF (Executable and Linkable Format) for Linux.
+Disassembly: Disassemble the binary code using a disassembler such as IDA Pro, Ghidra, or Radare2. These tools can help you navigate the assembly code and identify the entry point.
+
+### Dynamic Analysis:
+
+Debugger: Use a debugger like OllyDbg, WinDbg, or GDB to run the executable in a controlled environment. Set breakpoints and step through the code until you reach the entry point.
+Monitoring Tools: Use tools like Process Monitor (ProcMon) on Windows or strace on Linux to monitor system calls and identify when the executable is loaded and starts executing.
+Strings and Signatures:
+
+String Analysis: Look for strings within the executable that may indicate the entry point. Some malware authors leave identifiable strings.
+Signature-Based Detection: Use antivirus or anti-malware tools that might have signature databases to identify known malware and their entry points.
+Code Emulation and Analysis:
+
+Sandboxing: Execute the executable in a controlled environment, often called a sandbox, and monitor its behavior. Analyze the log or output for indications of the entry point.
+
+### Tools
+
+Cuckoo Sandbox: An open-source automated malware analysis system.
+
+FireEye: A platform for detecting, preventing, and resolving advanced malware.
+
+Joe Sandbox: A malware analysis platform that provides both static and dynamic analysis.
+
+OllyDbg: A 32-bit assembler level analyzing debugger for Microsoft Windows.
+
+IDA Pro: A multi-processor disassembler and debugger for Windows, Linux, and macOS.
+
+Ghidra: A software reverse engineering framework developed by the NSA.
+
+Radare2: A portable reversing framework that supports a wide range of architectures.
+
+Process Monitor: A monitoring tool for Windows that shows real-time file system, registry, and process/thread activity.
+
+Wireshark: A network protocol analyzer that lets you capture and interactively browse network traffic.
+
+YARA: A tool for identifying and classifying malware based on patterns.
+
+Volatility: A memory forensics framework for incident response and malware analysis.
+
+The Sleuth Kit: A collection of command-line tools for digital investigation and analysis.
+
+Autopsy: A digital forensics platform that provides a graphical interface for The Sleuth Kit.
+
+Mandiant Redline: A free tool for host investigations and memory analysis.
+
+Regshot: A utility that takes a snapshot of your system's registry and compares it to a second one.
+
+PEiD: A tool that can detect the compiler/packer/cryptor of PE executables.
+
+PEview: A lightweight and portable tool for viewing PE files.
+
+PEStudio: A free tool that performs malware assessments on executable files.
+
+Dependency Walker: A utility that scans any 32-bit or 64-bit Windows module and builds a hierarchical tree diagram of all dependent modules.
+
+VirusTotal: A service that analyzes suspicious files and URLs to detect malware.
 
 --------------------------------------------
 ### **Reviews and Details CEH Practical**
