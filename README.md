@@ -6,7 +6,7 @@
 - Duration: 6 hours 
 - Availability: Aspen – iLabs 
 - Test Format: Cyber Range 
-- Passing Score: 70% (14 Questions)
+- Passing Score: Min 15 Questions
 --------------------------------------------
 **Exam Tips**
 - Vulnerability analysis to identify security loopholes in the target organization’s network, communication infrastructure, and end systems, etc;
